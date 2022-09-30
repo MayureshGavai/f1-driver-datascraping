@@ -1,0 +1,19 @@
+{
+  "name": "f1scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "csvjson": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.10"
+  }
+}
